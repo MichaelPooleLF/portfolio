@@ -20,3 +20,23 @@ html {
 .justify-evenly {
   justify-content: space-evenly;
 }
+
+.justify-between {
+  justify-content: space-between;
+}
+
+.align-center {
+  align-items: center;
+}
+
+.page-header {
+  background-color: darkslategray;
+}
+
+.nav-item {
+  text-decoration: none;
+}
+
+.nav-item:hover {
+  color: steelblue;
+}
